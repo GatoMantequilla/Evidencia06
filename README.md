@@ -8,8 +8,6 @@ Desarrollar un diagrama de clases UML a partir de la descripción de un contexto
 - Integrante: Gustavo Pérez
 
 ## Contexto
-Contexto:
-
 El objetivo es representar los elementos del dominio problema (ej: cliente, usuario web, cuenta, carrito de compras, producto, pedido, pago, etc.) y las relaciones entre ellos. Podría utilizarse como un elemento común entre analistas del negocio, ejecutivos comerciales y desarrolladores de software.
 
 Cada cliente está vinculado exactamente a una cuenta, una cuenta no puede existir sin un cliente asociado.
